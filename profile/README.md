@@ -2,23 +2,23 @@
 Das DCC am Statistischen Amt ist die neue Anlaufstelle für Daten der Verwaltung des Kantons Basel-Stadt. Unsere Spezialistinnen und Spezialisten unterstützen die Dienststellen der kantonalen Verwaltung bei der Datenbewirtschaftung.
 
 ## Text Mate
-- [Frontend](./text-mate-frontend)
-- [Backend](text-mate-backend)
+- [Frontend](https://github.com/DCC-BS/text-mate-frontend)
+- [Backend](https://github.com/DCC-BS/text-mate-backend)
 
 ## Transcribo
-- [Fronend](./transcribo-frontend)
-- [Backend](./transcribo-backend)
+- [Fronend](https://github.com/DCC-BS/transcribo-frontend)
+- [Backend](https://github.com/DCC-BS/transcribo-backend)
 
 ## Bericht Generator
-- [Frontend](./bericht-frontend)
-- [Backend](./bericht-backend)
+- [Frontend](https://github.com/DCC-BS/bericht-frontend)
+- [Backend](https://github.com/DCC-BS/bericht-backend)
 
 ## BS Übersetzer
-- [BS-Uebersetzer](./BS-Uebersetzer)
+- [BS-Uebersetzer](https://github.com/DCC-BS/BS-Uebersetzer)
 
 ## Rag Bot
-- [Frontend](./rag-frontend)
-- [Backedn](./rag-backend)
+- [Frontend](https://github.com/DCC-BS/rag-frontend)
+- [Backedn](https://github.com/DCC-BS/rag-backend)
 
 <!--
 
