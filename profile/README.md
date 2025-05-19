@@ -1,5 +1,5 @@
 ## DCC Data Competence Center
-Das DCC am Statistischen Amt ist die neue Anlaufstelle für Daten der Verwaltung des Kantons Basel-Stadt. Unsere Spezialistinnen und Spezialisten unterstützen die Dienststellen der kantonalen Verwaltung bei der Datenbewirtschaftung.
+Das [DCC](https://www.bs.ch/daten/databs/dcc) am Statistischen Amt ist die neue Anlaufstelle für Daten der Verwaltung des Kantons Basel-Stadt. Unsere Spezialistinnen und Spezialisten unterstützen die Dienststellen der kantonalen Verwaltung bei der Datenbewirtschaftung.
 
 <a href="https://www.bs.ch/schwerpunkte/daten/databs/schwerpunkte/datenwissenschaften-und-ki"><img src="https://github.com/DCC-BS/.github/blob/main/_imgs/databs_log.png?raw=true" alt="DCC Logo" width="200" /></a>
 
