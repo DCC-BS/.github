@@ -7,7 +7,7 @@ Datenwissenschaften und KI <br>
 Developed with ❤️ by Data Alchemy Team
 
 
-# Unser Open-Source Services:
+# Unsere Open-Source Services:
 
 ## Text Mate
 Text Mate is a modern web application for advanced text editing, correction, and document validation. Built with Nuxt.js and TypeScript, it provides a rich set of tools to enhance writing experiences.
