@@ -34,9 +34,11 @@ Translate PDF or Word Documents to German.
 # Unsere Libraries
 
 ## Typescript
-- [common-ui.bs.js](https://github.com/DCC-BS/common-ui.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/common-ui.bs.js)
-- [feedback-control.bs.js](https://github.com/DCC-BS/feedback-control.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/feedback-control.bs.js)
-- [logger.bs.js](https://github.com/DCC-BS/logger.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/logger.bs.js)
-- [event-system.bs.js](https://github.com/DCC-BS/event-system.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/event-system.bs.js)
-- [dependency-injection.bs.js](https://github.com/DCC-BS/dependency-injection.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/dependency-injection.bs.js)
-- [authentication.bs.js](https://github.com/DCC-BS/authentication.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/authentication.bs.js)
+| Library | Repository | Version |
+|---------|------------|---------|
+| common-ui.bs.js | [GitHub](https://github.com/DCC-BS/common-ui.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/common-ui.bs.js) |
+| feedback-control.bs.js | [GitHub](https://github.com/DCC-BS/feedback-control.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/feedback-control.bs.js) |
+| logger.bs.js | [GitHub](https://github.com/DCC-BS/logger.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/logger.bs.js) |
+| event-system.bs.js | [GitHub](https://github.com/DCC-BS/event-system.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/event-system.bs.js) |
+| dependency-injection.bs.js | [GitHub](https://github.com/DCC-BS/dependency-injection.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/dependency-injection.bs.js) |
+| authentication.bs.js | [GitHub](https://github.com/DCC-BS/authentication.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/authentication.bs.js) |
