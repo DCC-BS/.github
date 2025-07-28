@@ -31,13 +31,12 @@ Translate PDF or Word Documents to German.
 - [Frontend](https://github.com/DCC-BS/rag-frontend)
 - [Backedn](https://github.com/DCC-BS/rag-backend)
 
-<!--
+# Unsere Libraries
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Typescript
+- [common-ui.bs.js](https://github.com/DCC-BS/common-ui.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/common-ui.bs.js)
+- [feedback-control.bs.js](https://github.com/DCC-BS/feedback-control.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/feedback-control.bs.js)
+- [logger.bs.js](https://github.com/DCC-BS/logger.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/logger.bs.js)
+- [event-system.bs.js](https://github.com/DCC-BS/event-system.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/event-system.bs.js)
+- [dependency-injection.bs.js](https://github.com/DCC-BS/dependency-injection.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/dependency-injection.bs.js)
+- [authentication.bs.js](https://github.com/DCC-BS/authentication.bs.js) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/authentication.bs.js)
