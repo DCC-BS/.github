@@ -25,8 +25,8 @@ Text Mate is a modern web application for advanced text editing, correction, and
 
 ## BS Übersetzer
 Translate Texts, PDF or Word Documents with formating.
-- [Frontend]([https://github.com/DCC-BS/BS-Uebersetzer](https://github.com/DCC-BS/bs-translator-frontend))
-- [Backend]([https://github.com/DCC-BS/BS-Uebersetzer](https://github.com/DCC-BS/bs-translator-backend))
+- [Frontend](https://github.com/DCC-BS/bs-translator-frontend)
+- [Backend](https://github.com/DCC-BS/bs-translator-backend)
 
 ## Rag Bot
 - [Frontend](https://github.com/DCC-BS/rag-frontend)
