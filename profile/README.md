@@ -16,10 +16,12 @@ Text Mate is a modern web application for advanced text editing, correction, and
 - [Backend](https://github.com/DCC-BS/text-mate-backend)
 
 ## Transcribo
+Transcribo is app for audio/video transcription with timeline-based editing.
 - [Fronend](https://github.com/DCC-BS/transcribo-frontend)
 - [Backend](https://github.com/DCC-BS/transcribo-backend)
 
 ## Bericht Generator
+Bericht Generator is a  web app for creating multimedia reports. It offers an intuitive interface to record complaints, add evidence, and generate professional reports.
 - [Frontend](https://github.com/DCC-BS/bericht-frontend)
 - [Backend](https://github.com/DCC-BS/bericht-backend)
 
@@ -29,6 +31,7 @@ Translate Texts, PDF or Word Documents with formating.
 - [Backend](https://github.com/DCC-BS/bs-translator-backend)
 
 ## Rag Bot
+Chat Bot with document management and RAG (Retrieval-Augmented Generation) functionality.
 - [Frontend](https://github.com/DCC-BS/rag-frontend)
 - [Backedn](https://github.com/DCC-BS/rag-backend)
 
