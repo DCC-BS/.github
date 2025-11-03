@@ -30,7 +30,7 @@ Translate Texts, PDF or Word Documents with formating.
 - [Frontend](https://github.com/DCC-BS/bs-translator-frontend)
 - [Backend](https://github.com/DCC-BS/bs-translator-backend)
 
-## Rag Bot
+## Bebbi Bot
 Chat Bot with document management and RAG (Retrieval-Augmented Generation) functionality.
 - [Frontend](https://github.com/DCC-BS/rag-frontend)
 - [Backedn](https://github.com/DCC-BS/rag-backend)
