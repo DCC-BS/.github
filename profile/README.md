@@ -9,6 +9,9 @@ Developed with ❤️ by DCC - Data Competence Center
 
 # Unsere Open-Source Services:
 
+## Unsere Dev Standards & Guidelines
+[Hier findest du unsere Dev Standards](https://dcc-bs.github.io/documentation/)
+
 ## Text Mate
 Text Mate is a modern web application for advanced text editing, correction, and document validation. Built with Nuxt.js and TypeScript, it provides a rich set of tools to enhance writing experiences.
 
