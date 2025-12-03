@@ -20,7 +20,7 @@ Text Mate is a modern web application for advanced text editing, correction, and
 
 ## Transcribo
 Transcribo is an app for audio/video transcription with timeline-based editing.
-- [Fronend](https://github.com/DCC-BS/transcribo-frontend)
+- [Frontend](https://github.com/DCC-BS/transcribo-frontend)
 - [Backend](https://github.com/DCC-BS/transcribo-backend)
 
 ## Bericht Generator
