@@ -51,3 +51,6 @@ Chat Bot with document management and RAG (Retrieval-Augmented Generation) funct
 | authentication.bs.js | [GitHub](https://github.com/DCC-BS/authentication.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/authentication.bs.js) |
 | audio-recorder.bs.js | [GitHub](https://github.com/DCC-BS/audio-recorder.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/audio-recorder.bs.js) |
 | communication.bs.js | [GitHub](https://github.com/DCC-BS/communication.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/communication.bs.js) |
+
+# Nuxt Layer
+[GitHub](https://github.com/DCC-BS/nuxt-layers)
