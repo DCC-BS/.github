@@ -23,7 +23,7 @@ Transcribo is an app for audio/video transcription with timeline-based editing.
 - [Frontend](https://github.com/DCC-BS/transcribo-frontend)
 - [Backend](https://github.com/DCC-BS/transcribo-backend)
 
-## Bericht Generator
+## Bericht Generatorhttps://github.com/DCC-BS/nuxt-layers
 Bericht Generator is a  web app for creating multimedia reports. It offers an intuitive interface to record complaints, add evidence, and generate professional reports.
 - [Frontend](https://github.com/DCC-BS/bericht-frontend)
 - [Backend](https://github.com/DCC-BS/bericht-backend)
@@ -52,5 +52,5 @@ Chat Bot with document management and RAG (Retrieval-Augmented Generation) funct
 | audio-recorder.bs.js | [GitHub](https://github.com/DCC-BS/audio-recorder.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/audio-recorder.bs.js) |
 | communication.bs.js | [GitHub](https://github.com/DCC-BS/communication.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/communication.bs.js) |
 
-# Nuxt Layer
+# Nuxt Layers
 [GitHub](https://github.com/DCC-BS/nuxt-layers)
