@@ -40,6 +40,11 @@ Chat Bot with document management and RAG (Retrieval-Augmented Generation) funct
 
 # Unsere Libraries
 
+## Python
+| Library | Repository |
+|---------|------------|
+| backend-common | [GitHub](https://github.com/DCC-BS/backend-common) |
+
 ## Typescript
 | Library | Repository | Version |
 |---------|------------|---------|
