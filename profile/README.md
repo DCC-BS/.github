@@ -9,8 +9,10 @@ Developed with ❤️ by DCC - Data Competence Center
 
 # Unsere Open-Source Services:
 
+Für alle KI-Anwendungen stehen docker images und docker compose files zur Verfügung.
+
 ## Unsere Dev Standards & Guidelines
-[Hier findest du unsere Dev Standards](https://dcc-bs.github.io/documentation/)
+[Hier findest du unsere Dev Standards & guidelines](https://dcc-bs.github.io/documentation/)
 
 ## Text Mate
 Text Mate is a modern web application for advanced text editing, correction, and document validation. Built with Nuxt.js and TypeScript, it provides a rich set of tools to enhance writing experiences.
@@ -33,6 +35,12 @@ Translate Texts, PDF or Word Documents with formating.
 - [Frontend](https://github.com/DCC-BS/bs-translator-frontend)
 - [Backend](https://github.com/DCC-BS/bs-translator-backend)
 
+## Docling Plugins
+We built two [docling](https://github.com/docling-project/docling) plugins. First, docling-glm-ocr to integrate vLLM remote served [GLM-OCR](https://huggingface.co/zai-org/GLM-OCR) OCR model in a docling pipeline. Second, docling-pp-doc-layout to integrate [PP-DocLayout-V3](https://huggingface.co/PaddlePaddle/PP-DocLayoutV3) layout detection model in a docling pipeline. We also provide various [docling-serve](https://github.com/docling-project/docling-serve) images with the plugins installed and a patched gradio demo.
+- [docling-glm-ocr](https://github.com/DCC-BS/docling-glm-ocr)
+- [docling-pp-doc-layout](https://github.com/DCC-BS/docling-pp-doc-layout)
+- [dcc-docling-serve](https://github.com/DCC-BS/dcc-docling-serve)
+
 ## Bebbi Bot
 Chat Bot with document management and RAG (Retrieval-Augmented Generation) functionality.
 - [Frontend](https://github.com/DCC-BS/rag-frontend)
@@ -41,9 +49,12 @@ Chat Bot with document management and RAG (Retrieval-Augmented Generation) funct
 # Unsere Libraries
 
 ## Python
-| Library | Repository |
-|---------|------------|
-| backend-common | [GitHub](https://github.com/DCC-BS/backend-common) |
+| Library | Repository | Version |
+|---------|------------|---------|
+| backend-common | [GitHub](https://github.com/DCC-BS/backend-common) | [![PyPI version](https://img.shields.io/pypi/v/dcc-backend-common.svg)](https://pypi.org/project/dcc-backend-common/) |
+| docling-glm-ocr | [GitHub](https://github.com/DCC-BS/docling-glm-ocr) | [![PyPI version](https://img.shields.io/pypi/v/docling-glm-ocr.svg)](https://pypi.org/project/docling-glm-ocr/) |
+| docling-pp-doc-layout | [GitHub](https://github.com/DCC-BS/docling-pp-doc-layout) | [![PyPI version](https://img.shields.io/pypi/v/docling-pp-doc-layout.svg)](https://pypi.org/project/docling-pp-doc-layout/) |
+
 
 ## Typescript
 | Library | Repository | Version |
