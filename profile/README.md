@@ -7,12 +7,12 @@ Datenwissenschaften und KI <br>
 Developed with ❤️ by DCC - Data Competence Center
 
 
-# Unsere Open-Source Services:
+# Our Open-Source applications, packages and projects:
 
-Für alle KI-Anwendungen stehen docker images und docker compose files zur Verfügung.
+We publish docker images and docker compose files for all of our AI applications. Additionally, we publish our TypeScript packages on npn and our Python packages on pypi.
 
-## Unsere Dev Standards & Guidelines
-[Hier findest du unsere Dev Standards & guidelines](https://dcc-bs.github.io/documentation/)
+## Our Dev Standards & Guidelines
+[Here are our Dev Standards & guidelines](https://dcc-bs.github.io/documentation/)
 
 ## Text Mate
 Text Mate is a modern web application for advanced text editing, correction, and document validation. Built with Nuxt.js and TypeScript, it provides a rich set of tools to enhance writing experiences.
@@ -26,7 +26,7 @@ Transcribo is an app for audio/video transcription with timeline-based editing.
 - [Backend](https://github.com/DCC-BS/transcribo-backend)
 
 ## Bericht Generator
-Bericht Generator is a  web app for creating multimedia reports. It offers an intuitive interface to record complaints, add evidence, and generate professional reports.
+Bericht Generator, aka report generator, is a  web app for creating multimedia reports. It offers an intuitive interface to record complaints, add evidence, and generate professional reports.
 - [Frontend](https://github.com/DCC-BS/bericht-frontend)
 - [Backend](https://github.com/DCC-BS/bericht-backend)
 
@@ -44,9 +44,9 @@ We built two [docling](https://github.com/docling-project/docling) plugins. Firs
 ## Bebbi Bot
 Chat Bot with document management and RAG (Retrieval-Augmented Generation) functionality.
 - [Frontend](https://github.com/DCC-BS/rag-frontend)
-- [Backedn](https://github.com/DCC-BS/rag-backend)
+- [Backend](https://github.com/DCC-BS/rag-backend)
 
-# Unsere Libraries
+# Our Libraries
 
 ## Python
 | Library | Repository | Version |
@@ -66,4 +66,6 @@ Chat Bot with document management and RAG (Retrieval-Augmented Generation) funct
 | communication.bs.js | [GitHub](https://github.com/DCC-BS/communication.bs.js) | ![GitHub package.json version](https://img.shields.io/github/package-json/v/DCC-BS/communication.bs.js) |
 
 # Nuxt Layers
+Nuxt layers allow you
 [GitHub](https://github.com/DCC-BS/nuxt-layers)
+
