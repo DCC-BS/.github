@@ -41,10 +41,6 @@ We built two [docling](https://github.com/docling-project/docling) plugins. Firs
 - [docling-pp-doc-layout](https://github.com/DCC-BS/docling-pp-doc-layout)
 - [dcc-docling-serve](https://github.com/DCC-BS/dcc-docling-serve)
 
-## Bebbi Bot
-Chat Bot with document management and RAG (Retrieval-Augmented Generation) functionality.
-- [Frontend](https://github.com/DCC-BS/rag-frontend)
-- [Backend](https://github.com/DCC-BS/rag-backend)
 
 # Our Libraries
 
