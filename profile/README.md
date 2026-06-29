@@ -1,11 +1,10 @@
 ## DCC Data Competence Center
-Das [DCC](https://www.bs.ch/daten/databs/dcc) am Statistischen Amt ist die neue Anlaufstelle für Daten der Verwaltung des Kantons Basel-Stadt. Unsere Spezialistinnen und Spezialisten unterstützen die Dienststellen der kantonalen Verwaltung bei der Datenbewirtschaftung.
+Das [DCC](https://www.bs.ch/daten/databs/dcc) am [Statistischen Amt](https://statistik.bs.ch/) ist die neue Anlaufstelle für Daten der Verwaltung des Kantons Basel-Stadt. Unsere Spezialistinnen und Spezialisten unterstützen die Dienststellen der kantonalen Verwaltung bei der Datenbewirtschaftung.
 
 <a href="https://www.bs.ch/schwerpunkte/daten/databs/schwerpunkte/datenwissenschaften-und-ki"><img src="https://github.com/DCC-BS/.github/blob/main/_imgs/databs_log.png?raw=true" alt="DCC Logo" width="200" /></a>
 
 Datenwissenschaften und KI <br>
 Developed with ❤️ by DCC - Data Competence Center
-
 
 # Our Open-Source applications, packages and projects:
 
@@ -13,6 +12,11 @@ We publish docker images and docker compose files for all of our AI applications
 
 ## Our Dev Standards & Guidelines
 [Here are our Dev Standards & guidelines](https://dcc-bs.github.io/documentation/)
+
+## Other GitHub organizations from Statistisches Amt Basel-Stadt:
+
+* [Statistisches Amt Basel-Stadt](https://github.com/StataBS)
+* [Open Data Basel-Stadt](https://github.com/opendatabs)
 
 ## Text Mate
 Text Mate is a modern web application for advanced text editing, correction, and document validation. Built with Nuxt.js and TypeScript, it provides a rich set of tools to enhance writing experiences.
