@@ -58,6 +58,13 @@ We built three [docling](https://github.com/docling-project/docling) plugins. Fi
 An OpenAI-compatible Speech-to-Text API built with BentoML and Faster Whisper. It features built-in support for speaker diarization and Voice Activity Detection (VAD).
 - [GitHub](https://github.com/DCC-BS/bentoml-faster-whisper)
 
+## MCP Servers
+MCP servers that give chatbots and agents access to public data of the Canton of Basel-Stadt. Each runs locally over stdio (opencode, Cursor, Claude Desktop) or hosted over streamable HTTP (ChatGPT connectors, OpenWebUI), and also ships a skill as a no-server alternative.
+- [mcp-data-bs](https://github.com/DCC-BS/mcp-data-bs): open datasets from [data.bs.ch](https://data.bs.ch) and other Huwise/Opendatasoft portals
+- [mcp-statistikportal](https://github.com/DCC-BS/mcp-statistikportal): indicators, time series and web tables from [statistik.bs.ch](https://statistik.bs.ch)
+- [mcp-medienmitteilungen](https://github.com/DCC-BS/mcp-medienmitteilungen): full-text search over all press releases on [bs.ch](https://www.bs.ch/medien/medienmitteilungen) since 1994
+- [dcc-mcp-facade](https://github.com/DCC-BS/dcc-mcp-facade): reverse proxy that exposes the hosted MCP servers behind hostname-based routing
+
 
 # Our Libraries
 
